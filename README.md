@@ -1,1 +1,2 @@
-# kurdishgram
+## Kurdgram messenger for Android
+
